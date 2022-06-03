@@ -1,0 +1,33 @@
+{
+  "name": "markdown-regexp",
+  "version": "1.1.2",
+  "description": "the parser for html string transform to react dom",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "rollup -c",
+    "release": "npm publish",
+    "version:s": "npm version patch -m '[patch]'",
+    "version:m": "npm version minor -m '[minor]'",
+    "version:b": "npm version major -m '[major]'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vkm0303/markdown-regexp.git"
+  },
+  "keywords": [
+    "markdown",
+    "js",
+    "regexp"
+  ],
+  "author": "akino",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vkm0303/markdown-regexp/issues"
+  },
+  "homepage": "https://github.com/vkm0303/markdown-regexp#readme",
+  "devDependencies": {
+    "rollup": "^2.70.2",
+    "rollup-plugin-commonjs": "^10.1.0",
+    "rollup-plugin-node-resolve": "^5.2.0"
+  }
+}
