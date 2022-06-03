@@ -1,5 +1,5 @@
 {
-  "name": "markdown-regexp",
+  "name": "markdown-matcher",
   "version": "1.1.2",
   "description": "the parser for html string transform to react dom",
   "main": "src/index.js",
@@ -12,19 +12,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vkm0303/markdown-regexp.git"
+    "url": "git+https://github.com/vkm0303/markdown-matcher.git"
   },
   "keywords": [
     "markdown",
     "js",
-    "regexp"
+    "matcher",
+    "npm"
   ],
   "author": "akino",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vkm0303/markdown-regexp/issues"
+    "url": "https://github.com/vkm0303/markdown-matcher/issues"
   },
-  "homepage": "https://github.com/vkm0303/markdown-regexp#readme",
+  "homepage": "https://github.com/vkm0303/markdown-matcher#readme",
   "devDependencies": {
     "rollup": "^2.70.2",
     "rollup-plugin-commonjs": "^10.1.0",
