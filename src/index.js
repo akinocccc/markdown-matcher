@@ -1,7 +1,7 @@
 import REGEXP_CONSTANT from './constant';
-import { replace } from './util';
+import methods from './util';
 
 export default {
   ...REGEXP_CONSTANT,
-  replace
+  ...methods
 };
