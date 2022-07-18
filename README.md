@@ -1,3 +1,13 @@
+# Markdown-Matcher
+
+<div style="display: flex;">
+  <img style="margin-right: 10px" src="https://img.shields.io/npm/v/markdown-matcher" />
+  <img style="margin-right: 10px" src="https://img.shields.io/travis/vkm0303/markdown-matcher"/>
+  <img style="margin-right: 10px" src="https://img.shields.io/coveralls/github/vkm0303/markdown-matcher.svg"/>
+  <img style="margin-right: 10px" src="https://img.shields.io/npm/dw/markdown-matcher"/>
+  <img style="margin-right: 10px" src="https://img.shields.io/bundlephobia/min/markdown-matcher"/>
+  <img style="margin-right: 10px" src="https://img.shields.io/github/license/vkm0303/markdown-matcher"/>
+</div>
 ## Install
 
 ```shell
